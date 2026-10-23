@@ -1,0 +1,5 @@
+[
+  {"id": "q1", "question": "What is the growth outlook for South Asia in this report?", "answer_type": "text"},
+  {"id": "q2", "question": "What does Chapter 3 say about sovereign debt in developing economies?", "answer_type": "text"},
+  {"id": "q3", "question": "According to the executive summary, what are the main risks to the global outlook?", "answer_type": "text"}
+]

@@ -1,0 +1,5 @@
+[
+  {"id": "q1", "question": "How many depository libraries did GPO staff visit in FY 2018?", "answer_type": "text"},
+  {"id": "q2", "question": "What new digital system replaced FDsys, and when was it fully deployed?", "answer_type": "text"},
+  {"id": "q3", "question": "How much did GPO procure in printing and information products in FY 2018 on behalf of federal agencies?", "answer_type": "text"}
+]

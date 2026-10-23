@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Data (PDFs, parse cache, rendered pages)
+data/pdfs/*
+!data/pdfs/.gitkeep
+data/parsed/
+
+# Logs / OS
+*.log
+.DS_Store
+.idea/
+.vscode/

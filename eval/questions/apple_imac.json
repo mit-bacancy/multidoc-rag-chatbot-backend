@@ -1,0 +1,5 @@
+[
+  {"id": "q1", "question": "How much less energy does iMac use compared to the ENERGY STAR requirement?", "answer_type": "table"},
+  {"id": "q2", "question": "What is the total carbon footprint of the iMac, and how much of that comes from product use versus manufacturing?", "answer_type": "chart"},
+  {"id": "q3", "question": "What material is the iMac stand made from, and what percentage of it is recycled?", "answer_type": "text"}
+]
